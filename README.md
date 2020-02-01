@@ -8,6 +8,8 @@ inspired by:
 - [日本で Rust を利用している会社一覧](https://github.com/fnwiya/japanese-rust-companies)
 - [日本でErlang/OTPやElixirを利用している会社一覧](https://github.com/voluntas/japanese-erlang-elixir-companies)
 
+<br>
+
 - 日本国内版
 - プルリクエストください
   - 信頼性を担保するために中の人のみでお願いします
