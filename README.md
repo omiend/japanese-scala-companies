@@ -20,7 +20,7 @@ inspired by:
 - まずは適当に書いて貰えると嬉しいです
 - こうした方が良いとかは Twitter で [@omiend](https://twitter.com/omiend) か GitHub Issue へお気軽にご連絡ください。
 
-テンプレート
+## テンプレート
 
 ```
 ### [会社名](会社 URL)
